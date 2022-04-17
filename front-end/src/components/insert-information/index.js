@@ -1,0 +1,1 @@
+export * from './insert-information.component'
